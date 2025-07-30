@@ -13,7 +13,18 @@ A Python GUI application that helps musicians find scales, chords, and artist-sp
 - Borrowed chord usage patterns
 
 ## Artists Included
-Phoebe Bridgers, Bon Iver, Billie Eilish, Lana Del Rey, and more...
+Phoebe Bridgers
+Angus & Julia Stone
+Low Roar
+Novo Amor
+SYML
+Iron & Wine
+Bon Iver
+Leif Vollebekk
+Lana Del Rey
+Alexandra Savior
+London Grammar
+Billie Eilish
 
 ## How to Run
 ```bash
